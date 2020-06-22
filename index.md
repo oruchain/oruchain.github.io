@@ -9,3 +9,9 @@ Leonardo was born out of wedlock to notary Piero da Vinci and a peasant woman na
 * Humanist
 * famous
 
+Leonardo is famous for his paintings:
+
+> By the 1490s Leonardo had already been described as a "Divine" painter.
+> Among the qualities that make Leonardo's work unique are his innovative techniques for laying on the paint; his detailed knowledge of anatomy, light, botany and geology; his interest in physiognomy and the way humans register emotion in expression and gesture; his innovative use of the human form in figurative composition; and his use of subtle gradation of tone. 
+> All these qualities come together in his most famous painted works, the Mona Lisa, the Last Supper, and the Virgin of the Rocks.
+
