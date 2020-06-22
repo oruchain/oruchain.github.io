@@ -15,3 +15,5 @@ Leonardo is famous for his paintings:
 > Among the qualities that make Leonardo's work unique are his innovative techniques for laying on the paint; his detailed knowledge of anatomy, light, botany and geology; his interest in physiognomy and the way humans register emotion in expression and gesture; his innovative use of the human form in figurative composition; and his use of subtle gradation of tone. 
 > All these qualities come together in his most famous painted works, the Mona Lisa, the Last Supper, and the Virgin of the Rocks.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/495px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg"/>
+
